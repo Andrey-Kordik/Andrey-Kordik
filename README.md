@@ -9,9 +9,9 @@
 * <img src="https://e7.pngegg.com/pngimages/285/319/png-clipart-computer-icons-teamwork-encapsulated-postscript-trabajo-en-equipo-angle-rectangle.png" height="20"/>Нравится работать в команде, где благодарю друг другу можно развиваться и расти, как специалист.
 * <img src="https://cdn-icons-png.flaticon.com/256/896/896706.png" height="20"/> Активно ищу работу. <a href="https://cloud.mail.ru/public/2n83/orzHrHoBn" target="_blank">Вот резюме</a>.
 
-<div style="border: 1px solid grey; padding: 10px;">
+***
   <h3>Language and Tools</h3>
-</div>
+
 <!--
 **Andrey-Kordik/Andrey-Kordik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

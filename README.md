@@ -25,6 +25,9 @@
     <img src="https://e7.pngegg.com/pngimages/724/234/png-clipart-redux-react-javascript-vue-js-single-page-application-others-miscellaneous-purple-thumbnail.png" height="60"/>
 </div>
 
+***
+
+
 <!--
 **Andrey-Kordik/Andrey-Kordik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

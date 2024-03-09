@@ -7,7 +7,7 @@
 * <img src="https://cdn-icons-png.flaticon.com/512/8003/8003916.png" height="20"/> Мне нравится работать с современными технологиями, создавать приложения которые были бы интуитивно понятны пользователю и просты в обращении.
 * <img src="https://w7.pngwing.com/pngs/524/219/png-transparent-computer-icons-big-data-learn-more-text-data-learn-more.png" height="20"/>Каждый день стараюсь узнавать что-то новое и развиваться в сфере программирования.
 * <img src="https://e7.pngegg.com/pngimages/285/319/png-clipart-computer-icons-teamwork-encapsulated-postscript-trabajo-en-equipo-angle-rectangle.png" height="20"/>Нравится работать в команде, где благодарю друг другу можно развиваться и расти, как специалист.
-* <img src="https://cdn-icons-png.flaticon.com/256/896/896706.png" height="20"/>Активно ищу работу. <a href="https://cloud.mail.ru/public/2n83/orzHrHoBn" target="_blank">Вот резюме</a>.
+* <img src="https://cdn-icons-png.flaticon.com/256/896/896706.png" height="20"/> Активно ищу работу. <a href="https://cloud.mail.ru/public/2n83/orzHrHoBn" target="_blank">Вот резюме</a>.
 
 
 <!--

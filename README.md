@@ -29,7 +29,7 @@
 
 <h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/5075/5075658.png" height="40"/> My Contacts</h1>
 <h3 align="center"><a href="mailto:kordik000@mail.ru" style="color: blue; text-decoration: underline;">kordik000@mail.ru</a></h3>
-<h3 align="center"><img src="https://w7.pngwing.com/pngs/1/41/png-transparent-telegram-button-icon-thumbnail.png" height="30"/> @Andrey_Kordik</h3>
+<h3 align="center"><img src="https://w7.pngwing.com/pngs/1/41/png-transparent-telegram-button-icon-thumbnail.png" height="30"/><a href="https://t.me/Andrey_Kordik" style="color: blue; text-decoration: underline;">@Andrey_Kordik</a></h3>
 <!--
 **Andrey-Kordik/Andrey-Kordik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

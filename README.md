@@ -16,7 +16,7 @@
     <img src="https://s1.iconbird.com/ico/2013/9/446/w512h5121380376407MetroUIHTML5.png" height="60"/>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="60"/>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968238.png" height="60"/>
-    <img src="https://cms-assets.tutsplus.com/uploads/users/1125/posts/30546/preview_image/RN.jpg" height="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="60"/>
     <img src="https://cdn-icons-png.flaticon.com/512/8744/8744719.png" height="60"/>
     <img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" height="60"/>
     <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" height="60"/>

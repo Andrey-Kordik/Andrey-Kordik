@@ -27,6 +27,8 @@
 
 ***
 
+<h3 align="center">   <img src="https://cdn-icons-png.flaticon.com/512/5075/5075658.png" height="30"/> My contacts</h1>
+
 
 <!--
 **Andrey-Kordik/Andrey-Kordik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

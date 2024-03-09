@@ -4,7 +4,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3l-v3WE3HDeluMfpcx2pcWfUOELCXPYmWq-oujoiSCmaY5WT8Au2FFQ8g_WXm3z2SB5o&usqp=CAU" height="32"/>
 <h3>Я Фронтенд-разработчик. Живу в России</h3>
 
-# Люблю создавать
+* Люблю создавать
 
 
 <!--

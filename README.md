@@ -12,16 +12,18 @@
 ***
   <h3> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQy7y90PW6Y5RSE_6-X0p7zH7rolY32V6RAFId2Po-jyWGAeSJXz7DG0JeVbfEoB2YNdo&usqp=CAU" height="32"/> Languages and Tools</h3> 
 
-  <img src="https://s1.iconbird.com/ico/2013/9/446/w512h5121380376407MetroUIHTML5.png" height="40"/> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="40"/> 
-     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968238.png" height="40"/> 
-       <img src="https://cms-assets.tutsplus.com/uploads/users/1125/posts/30546/preview_image/RN.jpg" height="40"/> 
-         <img src="https://cdn-icons-png.flaticon.com/512/8744/8744719.png" height="40"/> 
-           <img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" height="40"/> 
-             <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" height="40"/> 
-              <img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" height="40"/> 
-               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbvAbjgafLPwSCI0dOC1VgAPMgSMhIPqarA&usqp=CAU" height="40"/> 
-                <img src="https://e7.pngegg.com/pngimages/724/234/png-clipart-redux-react-javascript-vue-js-single-page-application-others-miscellaneous-purple-thumbnail.png" height="40"/> 
+<div style="display: flex; justify-content: center;">
+    <img src="https://s1.iconbird.com/ico/2013/9/446/w512h5121380376407MetroUIHTML5.png" height="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968238.png" height="60"/>
+    <img src="https://cms-assets.tutsplus.com/uploads/users/1125/posts/30546/preview_image/RN.jpg" height="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/8744/8744719.png" height="60"/>
+    <img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" height="60"/>
+    <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" height="60"/>
+    <img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" height="60"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbvAbjgafLPwSCI0dOC1VgAPMgSMhIPqarA&usqp=CAU" height="60"/>
+    <img src="https://e7.pngegg.com/pngimages/724/234/png-clipart-redux-react-javascript-vue-js-single-page-application-others-miscellaneous-purple-thumbnail.png" height="60"/>
+</div>
 
 <!--
 **Andrey-Kordik/Andrey-Kordik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

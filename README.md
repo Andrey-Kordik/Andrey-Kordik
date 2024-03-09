@@ -1,4 +1,7 @@
-                                                                                                          ### Всем привет, меня зовут Андрей 👋
+
+<h1 align="center">Всем привет, меня зовут Андрей 👋</h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+Всем привет, меня зовут Андрей 👋
 
 <!--
 **Andrey-Kordik/Andrey-Kordik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

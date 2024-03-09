@@ -10,7 +10,7 @@
 * <img src="https://cdn-icons-png.flaticon.com/256/896/896706.png" height="20"/> Активно ищу работу. <a href="https://cloud.mail.ru/public/2n83/orzHrHoBn" target="_blank">Вот резюме</a>.
 
 ***
-  <h3> <img src="https://cdn-icons-png.flaticon.com/512/2620/2620686.png" height="30"/>Language and Tools</h3>
+  <h3> <img src="https://cdn-icons-png.flaticon.com/512/2620/2620686.png" height="32"/>Language and Tools</h3>
 
 <!--
 **Andrey-Kordik/Andrey-Kordik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

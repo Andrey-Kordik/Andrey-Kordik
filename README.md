@@ -27,7 +27,7 @@
 
 ***
 
-<h3 align="center">   <img src="https://cdn-icons-png.flaticon.com/512/5075/5075658.png" height="30"/> My contacts</h1>
+<h3 align="center">   <img src="https://cdn-icons-png.flaticon.com/512/5075/5075658.png" height="40"/> My contacts</h1>
 
 
 <!--
